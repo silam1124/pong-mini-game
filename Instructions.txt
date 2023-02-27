@@ -1,0 +1,37 @@
+External Libraries you must install for program to work: 
+Pygame (from pygame import mixer) & Turtle
+
+
+Instructions explaining how to install, run, and use program: 
+1. Download the external libraries listed above (Pygame & Turtle)
+
+2. Download the audio file through the provided link
+
+3. Open the Python file
+
+4. For the background music to play, you must drag the audio file you downloaded into the programs' path 
+*For visual, click on this link https://gyazo.com/ae37a8067cb0e7b8b72942266872a9a3*
+
+5. If you do not drag the audio file to where it belongs, the program will not run/play its' music
+
+6. After the audio file is in its correct destination, run the program
+
+7. If done correctly, the music should be playing and the program will pop up a menu
+
+8. The menu will feature 2 buttons you can interact with -- Start and Exit 
+
+9. To run the actual game, click on the start button
+
+10. A classical arcade game called "Pong" should show up
+
+11. To move the right paddles, click on the up and down keys & To move the left paddles, click on W or S keys
+**This game is multiplayer; for the best experience, it is recommended to have 2 players**
+
+12. To exit the program, go back to the menu and click on the exit button
+
+
+
+
+
+
+
